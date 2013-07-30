@@ -14,3 +14,4 @@ sitemap.xml
 sitemap.xml.gz
 .svn
 .svnignore
+.DS_Store
